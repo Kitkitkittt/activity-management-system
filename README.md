@@ -1,2 +1,20 @@
-# Sistema_Mison
-Sistemas Web creado para tienda local con las tecnologías de PHP-MySQL-Bootstrap-AJAX
+# Activity Management System
+
+Web system created for a local store using PHP-MySQL-Bootstrap-AJAX.
+
+## Features
+
+- Product management
+- Sales tracking
+- Inventory management
+- Order processing
+- Customer management
+- Reporting
+
+## Tech Stack
+
+- PHP
+- MySQL
+- Bootstrap
+- AJAX
+- HTML/CSS/JavaScript
